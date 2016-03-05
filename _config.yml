@@ -1,6 +1,6 @@
 name: INTERWORD
 favicon: null
-layout_spectrum: 0.46478864713571966
+layout_spectrum: 0.62644
 typography_spectrum: 0.015093377092853189
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8863836019299924
+    - '#ffffff'
+    - '#356680'
+    - '#808080'
+    - '#bcbcbc'
+    - '#9e9e9e'
+  brandStrength: 0.5
   lightness: 0.8817934768740088
-  saturation: 0.19875181885436177
+  saturation: 0.9375
   rhythmicContrast: 0.9265466860961169
 purpose: []
