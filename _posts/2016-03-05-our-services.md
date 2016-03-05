@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T18:21:23.586Z'
-dateModified: '2016-03-05T18:21:23.080Z'
+datePublished: '2016-03-05T18:39:40.508Z'
+dateModified: '2016-03-05T18:39:34.730Z'
 title: Our Services
 author: []
+sourcePath: _posts/2016-03-05-our-services.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-our-services.md
-published: true
 url: our-services/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/041d96da-9803-47a3-a8ea-a8f3bf8188f6.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5acd10849908ee1320d878b92e506bcb6c8870c.png)
 
 # Our Services
 
