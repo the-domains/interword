@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T18:41:14.816Z'
-dateModified: '2016-03-05T18:41:05.781Z'
+datePublished: '2016-03-05T18:41:46.308Z'
+dateModified: '2016-03-05T18:41:33.348Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-03-05-our-services.md
