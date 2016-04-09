@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ● Cantonese
-datePublished: '2016-04-09T03:05:17.628Z'
-dateModified: '2016-04-09T03:03:42.047Z'
+description: Intworld provides interpreting services in the following languages
+datePublished: '2016-04-09T03:06:22.067Z'
+dateModified: '2016-04-09T03:05:23.112Z'
 title: Languages
 author: []
 sourcePath: _posts/2016-04-09-langurages.md
