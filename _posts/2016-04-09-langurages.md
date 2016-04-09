@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: LANGURAGES
-datePublished: '2016-04-09T02:52:06.949Z'
-dateModified: '2016-04-09T02:52:06.576Z'
+datePublished: '2016-04-09T02:53:53.236Z'
+dateModified: '2016-04-09T02:53:49.722Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-09-langurages.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-langurages.md
-published: true
 url: langurages/index.html
 _type: Article
 
