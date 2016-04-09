@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ● Cantonese
-datePublished: '2016-04-09T02:59:59.941Z'
-dateModified: '2016-04-09T02:59:48.953Z'
-title: LANGUAGES
+datePublished: '2016-04-09T03:00:24.745Z'
+dateModified: '2016-04-09T03:00:13.577Z'
+title: Languages
 author: []
 sourcePath: _posts/2016-04-09-langurages.md
 published: true
@@ -22,7 +22,7 @@ url: langurages/index.html
 _type: Article
 
 ---
-# LANGUAGES
+# Languages
 
 ● Cantonese
 
