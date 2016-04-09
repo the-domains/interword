@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "With Interword Interpreting Services, claims specialists, medical and law offices, as well as individuals can easily connect with high quality certified and qualified interpreters of a wide variety of languages. We incorporate technology to offer unbeatable quality, reliability and value.\_"
-datePublished: '2016-04-09T02:48:33.377Z'
-dateModified: '2016-04-09T02:48:23.289Z'
+datePublished: '2016-04-09T02:54:25.063Z'
+dateModified: '2016-04-09T02:54:22.359Z'
 author: []
 sourcePath: _posts/2016-03-05-our-services.md
 published: true
