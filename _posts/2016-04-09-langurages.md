@@ -4,11 +4,10 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: Intworld provides interpreting services in the following languages
-datePublished: '2016-04-09T04:10:56.846Z'
-dateModified: '2016-04-09T04:08:25.372Z'
+description: ● Chinese
+datePublished: '2016-04-27T03:58:53.111Z'
+dateModified: '2016-04-27T03:58:31.307Z'
 title: Languages
 author: []
 sourcePath: _posts/2016-04-09-langurages.md
@@ -19,12 +18,11 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 _type: Blurb
 
 ---
 # Languages
-
-Intworld provides interpreting services in the following languages
 
 ● Cantonese
 
