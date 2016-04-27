@@ -4,12 +4,13 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
 keywords: []
-description: "With Interword Interpreting Services, claims specialists, medical and law offices, as well as individuals can easily connect with high quality certified and qualified interpreters of a wide variety of languages. We incorporate technology to offer unbeatable quality, reliability and value.\_"
-datePublished: '2016-04-09T04:11:15.764Z'
-dateModified: '2016-04-09T04:11:15.195Z'
-author: []
+description: 'With Interword Interpreting Services, hospitals, claims specialists, medical and law offices, as well as individuals can easily connect with high quality certified and qualified interpreters of a wide variety of languages. We incorporate technology to offer unbeatable quality, reliability and value.'
+datePublished: '2016-04-27T04:02:20.574Z'
+dateModified: '2016-04-27T04:01:33.898Z'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-05-our-services.md
 published: true
 title: Our Services
@@ -19,6 +20,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 _type: Blurb
 
 ---
@@ -26,28 +28,24 @@ _type: Blurb
 
 # Our Services
 
-With Interword Interpreting Services, claims specialists, medical and law offices, as well as individuals can easily connect with high quality certified and qualified interpreters of a wide variety of languages. We incorporate technology to offer unbeatable quality, reliability and value. 
+With Interword Interpreting Services, hospitals, claims specialists, medical and law offices, as well as individuals can easily connect with high quality certified and qualified interpreters of a wide variety of languages. We incorporate technology to offer unbeatable quality, reliability and value.
 
-We have built a network of hand-picked certified and qualified interpreters and translators who can work from home at the time that works for them. 
+We have built a network of hand-picked certified and qualified interpreters and translators who can work on demand in locations where services are needed or from home at the time that works for them. 
 
 Our mission is to give more people freedom to work from home or at locations that are the most convenient for them with flexible hours, so we are able to cover assignments statewide. 
 
 With our highly trained interpreters we do not just aid in communication, we help an injured worker to be an active participant in his own recovery.
 
-● Workers Compensation
-Medical and Legal interpreting
+● Workers Compensation Medical and Legal interpreting
 
-● Technical and
-commercial translations
+● Technical and commercial translations
 
 ● Face-to-face
 
-● Telephonic
-interpretation available 24/7
+● Telephonic interpretation available 24/7
 
 ● Document translation
 
-● QMEs &
-Depositions
+● QMEs & Depositions
 
 ● Court appearances
