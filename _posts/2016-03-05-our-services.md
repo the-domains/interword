@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'With Interword Interpreting Services, hospitals, claims specialists, medical and law offices, as well as individuals can easily connect with high quality certified and qualified interpreters of a wide variety of languages. We incorporate technology to offer unbeatable quality, reliability and value.'
-datePublished: '2016-04-27T04:02:20.574Z'
-dateModified: '2016-04-27T04:01:33.898Z'
+datePublished: '2016-04-27T04:03:31.090Z'
+dateModified: '2016-04-27T04:02:25.651Z'
 author:
   - name: ''
     url: ''
